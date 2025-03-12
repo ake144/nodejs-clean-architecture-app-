@@ -24,9 +24,9 @@ This project is designed following **Clean Architecture**, ensuring separation o
 
 ## 📸 Project Structure Image  
 
-> *(Stored inside the `/public` folder. Make sure the image exists in the repo.)*
 
-![Folder Structure](./public/folder-structure.png)
+
+![Folder Structure](./public/file.png)
 
 ---
 
